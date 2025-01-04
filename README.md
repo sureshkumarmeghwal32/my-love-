@@ -4,3 +4,4 @@ hand
 </A>
 <BODY background="C:\Users\ragav mali\Desktop\QR Code\IMG_0002.JPG">
 </BODY>
+![Uploading IMG_9905.JPG…]()
